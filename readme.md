@@ -9,7 +9,7 @@
 ## Setup Instructions
 
 ### 1. Clone repo
-git clone https://github.com/ms3088/github-profile-analyzer.git
+git clone https://github.com/ms3088/github-profile-analyzer-node.js.git
 
 ### 2. Switch branch
 git checkout ms3088
