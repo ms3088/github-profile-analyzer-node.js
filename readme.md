@@ -26,9 +26,9 @@ DB_PASSWORD=your_password
 DB_NAME=github_analyzer  
 PORT=3000  
 
-### 5. Import database
-Import file inside:
-database/github_analyzer.sql
+### 5. API Records
+File inside:
+postman/REST API basics- CRUD, test & variable.postman_collection.json
 
 ### 6. Run project
 npm start
