@@ -15,9 +15,9 @@ git clone https://github.com/ms3088/github-profile-analyzer-node.js.git
 git checkout ms3088
 
 ### 3. Install dependencies
-npm install,
-npm install express mysql2 axios dotenv cors,
-Development Dependencies:npm install -D nodemon
+- npm install,
+- npm install express mysql2 axios dotenv cors,
+- Development Dependencies:npm install -D nodemon
 
 ### 4. Setup environment
 Create .env file:
